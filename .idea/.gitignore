@@ -1,0 +1,27 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build output directories
+/target/
+/bin/
+/build/
+
+# STS/Eclipse project files
+/.project
+/.classpath
+/.settings/
+
+# Maven directories (if using Maven)
+.mvn/
+target/
+
+
+
+# Operating system files
+.DS_Store      # macOS
+
+
+
